@@ -16,5 +16,9 @@ public class AdminService {
 		
 	public List<DonorRequest> getAllDonorRequests(){
 		return drobj;
+		
+	public DonorRequest getDonorRequest(int reqid) {
+		
+	}
 	}
 }

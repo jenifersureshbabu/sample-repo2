@@ -1,4 +1,4 @@
-package iframex.api.donor;
+package iframex.api.admin;
 
 public class DonorRequest {
 
